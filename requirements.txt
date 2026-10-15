@@ -1,0 +1,6 @@
+openai-agents>=0.24.0
+openai>=3.11.0
+pydantic>=2.10.0
+gradio>=6.0.0
+typing-extensions>=4.12.0
+
